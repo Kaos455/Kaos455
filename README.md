@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there. Im Mark 👋
 
+## About Me!
+I am a Software Developer who is currently doing there last year of University and Im trying to do more personal projects around my university projects for this year
 <!--
 **Kaos455/Kaos455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
